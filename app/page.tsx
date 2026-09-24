@@ -22,7 +22,7 @@ type ServerResponse = {
   message?: string;
 };
 
-const SERVER_URL = "http://localhost:5000";
+const SERVER_URL = "https://housie-game-gyx3.onrender.com";
 
 const winningTypes = [
   "Early 5",
